@@ -1,0 +1,14 @@
+D:\projects\cleanddd\cleanddd\IntegrationEvents\bin\Debug\net8.0\IntegrationEvents.exe
+D:\projects\cleanddd\cleanddd\IntegrationEvents\bin\Debug\net8.0\IntegrationEvents.deps.json
+D:\projects\cleanddd\cleanddd\IntegrationEvents\bin\Debug\net8.0\IntegrationEvents.runtimeconfig.json
+D:\projects\cleanddd\cleanddd\IntegrationEvents\bin\Debug\net8.0\IntegrationEvents.dll
+D:\projects\cleanddd\cleanddd\IntegrationEvents\bin\Debug\net8.0\IntegrationEvents.pdb
+D:\projects\cleanddd\cleanddd\IntegrationEvents\obj\Debug\net8.0\IntegrationEvents.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\cleanddd\cleanddd\IntegrationEvents\obj\Debug\net8.0\IntegrationEvents.AssemblyInfoInputs.cache
+D:\projects\cleanddd\cleanddd\IntegrationEvents\obj\Debug\net8.0\IntegrationEvents.AssemblyInfo.cs
+D:\projects\cleanddd\cleanddd\IntegrationEvents\obj\Debug\net8.0\IntegrationEvents.csproj.CoreCompileInputs.cache
+D:\projects\cleanddd\cleanddd\IntegrationEvents\obj\Debug\net8.0\IntegrationEvents.dll
+D:\projects\cleanddd\cleanddd\IntegrationEvents\obj\Debug\net8.0\refint\IntegrationEvents.dll
+D:\projects\cleanddd\cleanddd\IntegrationEvents\obj\Debug\net8.0\IntegrationEvents.pdb
+D:\projects\cleanddd\cleanddd\IntegrationEvents\obj\Debug\net8.0\IntegrationEvents.genruntimeconfig.cache
+D:\projects\cleanddd\cleanddd\IntegrationEvents\obj\Debug\net8.0\ref\IntegrationEvents.dll
